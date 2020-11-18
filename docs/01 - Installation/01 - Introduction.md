@@ -3,7 +3,7 @@ Title: Introduction to installation
 Description: Introducing the installation process.
 Author: Don Robertson
 Date: 1-1-2020
-Updated:
+Modified:
     - 12-11-2020
 Robots: noindex,nofollow
 Template: doc-item
@@ -13,8 +13,13 @@ Template: doc-item
 The sub-projects are 
 
 1. Learn2_docs
-the documentation
+
+    the documentation
+
 2. picocms_learn2
-the theme
+
+    the theme
+
 3. learn2_plugins
-the plugins used.
+
+    the plugins used.

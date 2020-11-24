@@ -3,8 +3,11 @@ Title: Introduction to installation
 Description: Introducing the installation process.
 Author: Don Robertson
 Date: 1-1-2020
-Modified:
-    - 12-11-2020
+Changelog:
+    - date: 24-11-2020
+      change: added a new modification to document.
+    - date: 12-11-2020
+      change: Changed the modification header format.
 Robots: noindex,nofollow
 Template: doc-item
 ---
